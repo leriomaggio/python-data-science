@@ -4,6 +4,7 @@
 ## Lectures
 
 1. [Introduction to Numpy](./numpy)
+2. [Introdution to Pandas](./pandas)
 
 
 # Notebook Format
@@ -40,3 +41,8 @@ Additional Books for further readings:
 - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 - [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 - [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+
+## Credits and Acknowledgments
+
+* The materials in the **`pandas`** section has been taken and adapted from https://github.com/alanderex/pandas-pydata-2017
+<span style="font-size: small;float: right;">&copy; 2015-2017 Alexander C.S. Hendorf, <a href="http://koenigsweg.com">Königsweg GmbH</a>, Mannheim </span>

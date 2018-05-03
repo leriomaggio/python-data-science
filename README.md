@@ -6,6 +6,12 @@
 1. [Introduction to Numpy](./numpy)
 2. [Introdution to Pandas](./pandas)
 
+# Exercises and Challenges
+
+1. [Numpy Challenges](./challenges/numpy_arrays.ipynb)
+2. [Scipy Sparse Challenges](./challenges/scipy_sparse.ipynb)
+3. [Pandas Challenges](./challenges/pandas)
+
 
 # Notebook Format
 
@@ -44,5 +50,11 @@ Additional Books for further readings:
 
 ## Credits and Acknowledgments
 
-* The materials in the **`pandas`** section has been taken and adapted from https://github.com/alanderex/pandas-pydata-2017
+* Materials in the **`numpy`** section is adapted and updated from https://github.com/leriomaggio/numpy_euroscipy2015
+<span style="font-size: small;float: right;">&copy; 2015-2018 Valerio Maggio.
+
+* The materials in the **`pandas`** section has been mostly taken and adapted from https://github.com/alanderex/pandas-pydata-2017
 <span style="font-size: small;float: right;">&copy; 2015-2017 Alexander C.S. Hendorf, <a href="http://koenigsweg.com">Königsweg GmbH</a>, Mannheim </span>
+
+   - The Pandas anti-patterns section has been adapted from the fantastic tutorial @ PyCon Otto by Pietro Battiston
+     _Pandas, the wrong way_ source: https://pietrobattiston.it/python:pycon

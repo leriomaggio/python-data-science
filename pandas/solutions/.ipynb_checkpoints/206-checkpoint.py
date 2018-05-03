@@ -1,1 +1,0 @@
-sales_data[(sales_data['units']==50) & (sales_data['product']=='PlayStation')]

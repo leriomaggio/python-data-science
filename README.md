@@ -27,12 +27,6 @@ For additional details and materials on Jupyter and IPython, I suggest this
 - [Notebook Examples](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##NotebookExamples)
 
 
-# Python Data Science challenges in this repo
-
-[Numpy Arrays](numpy_arrays.ipynb)  - learn how to create and use numpy `ndarrays`: the most fundamental structure of data processing
-
-[Scipy Sparse](scipy_sparse.ipynb) - dive into the `scipy.sparse` module for sparse matrix implementations.
-
 # References and Materials
 
 If you want an introductory overview of Python for Data Science, I strongly recommend  

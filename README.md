@@ -2,15 +2,16 @@
 
 ### Crash course @FBK on basic Data Science using Python
 
-<img src="http://forge.fiware.org/plugins/mediawiki/wiki/fiware/images/thumb/4/46/FBK-Logo.png/707px-FBK-Logo.png" 
+<img src="http://forge.fiware.org/plugins/mediawiki/wiki/fiware/images/thumb/4/46/FBK-Logo.png/707px-FBK-Logo.png"
   width="15%" title="Fondazione Bruno Kessler" alt="FBK Logo" />
-  
+
 <img src="https://mpba.fbk.eu/sites/mpba.fbk.eu/themes/fbkunit/logo-en.png" title="MPBA" width="30%" alt="MPBA Logo" />
 
 ## Lectures
 
 1. [Introduction to Numpy](./numpy)
 2. [Introdution to Pandas](./pandas)
+3. [Basic Data Visualisation](./dataviz)
 
 # Exercises and Challenges
 
@@ -58,3 +59,5 @@ Additional Books for further readings:
 
    - The Pandas anti-patterns section has been adapted from the fantastic tutorial @ PyCon Otto by Pietro Battiston
      _Pandas, the wrong way_ source: https://pietrobattiston.it/python:pycon
+
+* The materials in the **matplotlib** section has been mostly taken and adapted from https://github.com/matplotlib/AnatomyOfMatplotlib

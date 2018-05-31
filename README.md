@@ -12,12 +12,14 @@
 1. [Introduction to Numpy](./numpy)
 2. [Introdution to Pandas](./pandas)
 3. [Basic Data Visualisation](./dataviz)
+4. [Machine Learning with Scikit-Learn](./sklearn)
 
 # Exercises and Challenges
 
 1. [Numpy Challenges](./challenges/numpy_arrays.ipynb)
 2. [Scipy Sparse Challenges](./challenges/scipy_sparse.ipynb)
 3. [Pandas Challenges](./challenges/pandas)
+4. [Machine Learning Case Study & Challenges](./sklearn/case study)
 
 
 # Notebook Format

@@ -1,23 +1,23 @@
 # Data Science, the Pythonic way
 
-### Crash course on basic Data Science using Python
+## Crash course on basic Data Science using Python
 
-## Lectures
+### Lectures
 
 1. [Introduction to Numpy](./numpy)
 2. [Introdution to Pandas](./pandas)
 3. [Basic Data Visualisation](./dataviz)
 4. [Machine Learning with Scikit-Learn](./sklearn)
 
-# Exercises and Challenges
+### Exercises and Challenges
 
 1. [Numpy Challenges](./challenges/numpy_arrays.ipynb)
 2. [Scipy Sparse Challenges](./challenges/scipy_sparse.ipynb)
 3. [Pandas Challenges](./challenges/pandas)
-4. [Machine Learning Case Study & Challenges](./sklearn/case study)
+4. [Machine Learning Challenges](./sklearn/cas%20study)
 
 
-# Notebook Format
+#### Notebook Format
 
 Differently from other sections, Data Science Challenges will be provided as **Jupyter Notebooks**.
 If you don't know what a Jupyter notebook is, or how to use it, please take a look at this quick
@@ -31,7 +31,7 @@ For additional details and materials on Jupyter and IPython, I suggest this
 - [Notebook Examples](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##NotebookExamples)
 
 
-# References and Materials
+### References and Materials
 
 If you want an introductory overview of Python for Data Science, I strongly recommend  
 [Scipy Lecture Notes](http://www.scipy-lectures.org): a community driven project where you can find
@@ -46,7 +46,7 @@ Additional Books for further readings:
 - [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 - [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 
-## Credits and Acknowledgments
+### Credits and Acknowledgments
 
 * Materials in the **`numpy`** section is adapted and updated from https://github.com/leriomaggio/numpy_euroscipy2015
 <span style="font-size: small;float: right;">&copy; 2015-2018 Valerio Maggio.
@@ -59,7 +59,7 @@ Additional Books for further readings:
 
 * The materials in the **matplotlib** section has been mostly taken and adapted from https://github.com/matplotlib/AnatomyOfMatplotlib
 
-## Contacts
+### Contacts
 
 <img src="https://img.icons8.com/ios-filled/32/000000/twitter.png" /> [`@leriomaggio`](http://twitter.com/leriomaggio)
 

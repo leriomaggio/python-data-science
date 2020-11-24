@@ -1,11 +1,14 @@
 # Data Science, the Pythonic way
 
-### Crash course @FBK on basic Data Science using Python
+### Crash course on basic Data Science using Python
 
-<img src="http://forge.fiware.org/plugins/mediawiki/wiki/fiware/images/thumb/4/46/FBK-Logo.png/707px-FBK-Logo.png"
-  width="15%" title="Fondazione Bruno Kessler" alt="FBK Logo" />
+#### Contacts
 
-<img src="https://mpba.fbk.eu/sites/mpba.fbk.eu/themes/fbkunit/logo-en.png" title="MPBA" width="30%" alt="MPBA Logo" />
+<img src="https://img.icons8.com/ios-filled/32/000000/twitter.png" /> [`@leriomaggio`](http://twitter.com/leriomaggio)
+
+<img src="https://img.icons8.com/ios-filled/32/000000/important-mail.png" /> `valeriomaggio_at_gmail`
+
+<img src="https://img.icons8.com/ios-glyphs/42/000000/linkedin.png" /> [`LinkedIn`](https://it.linkedin.com/in/valeriomaggio)
 
 ## Lectures
 

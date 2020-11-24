@@ -46,7 +46,7 @@ Additional Books for further readings:
 
 - [Scipy and Numpy](http://shop.oreilly.com/product/0636920020219.do)
 - [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do)
-- [Elegan Scipy](http://shop.oreilly.com/product/0636920038481.do)
+- [Elegant Scipy](http://shop.oreilly.com/product/0636920038481.do)
 - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 - [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 - [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)

@@ -2,14 +2,6 @@
 
 ### Crash course on basic Data Science using Python
 
-#### Contacts
-
-<img src="https://img.icons8.com/ios-filled/32/000000/twitter.png" /> [`@leriomaggio`](http://twitter.com/leriomaggio)
-
-<img src="https://img.icons8.com/ios-filled/32/000000/important-mail.png" /> `valeriomaggio_at_gmail`
-
-<img src="https://img.icons8.com/ios-glyphs/42/000000/linkedin.png" /> [`LinkedIn`](https://it.linkedin.com/in/valeriomaggio)
-
 ## Lectures
 
 1. [Introduction to Numpy](./numpy)
@@ -66,3 +58,12 @@ Additional Books for further readings:
      _Pandas, the wrong way_ source: https://pietrobattiston.it/python:pycon
 
 * The materials in the **matplotlib** section has been mostly taken and adapted from https://github.com/matplotlib/AnatomyOfMatplotlib
+
+## Contacts
+
+<img src="https://img.icons8.com/ios-filled/32/000000/twitter.png" /> [`@leriomaggio`](http://twitter.com/leriomaggio)
+
+<img src="https://img.icons8.com/ios-filled/32/000000/important-mail.png" /> `valeriomaggio_at_gmail`
+
+<img src="https://img.icons8.com/ios-glyphs/42/000000/linkedin.png" /> [`LinkedIn`](https://it.linkedin.com/in/valeriomaggio)
+

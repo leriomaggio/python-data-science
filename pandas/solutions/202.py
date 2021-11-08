@@ -1,1 +1,0 @@
-sales_data[['birthday', 'name']]

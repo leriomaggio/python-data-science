@@ -1,1 +1,0 @@
-sales_data.iloc[[55, 77]]

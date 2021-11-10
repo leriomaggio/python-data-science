@@ -1,0 +1,8 @@
+jupyter
+jupyterlab
+ipython
+matplotlib
+numpy
+pandas
+pip
+setuptools

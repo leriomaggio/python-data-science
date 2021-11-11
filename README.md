@@ -103,7 +103,13 @@ This section contains some extra notebooks you could go through to read more abo
 ⚠️ Note: It is necessary to have `Git` installed in order to proceed. If you don't have `git` installed on your system, you need to **install git** first. 
 [Instructions to Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-To acquire the lecture material it is highly recommendedn using `git` to **clone** the current repository. Since the repository will be constantly updated after each lesson, using git method will allow for an easier synchronisation of the material.
+
+
+💡 Please also consider looking at [**Git CheatSheet**](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+
+To acquire the lecture material it is highly recommended using `git` to **clone** the current repository. Since the repository will be constantly updated after each lesson, using git method will allow for an easier synchronisation of the material.
 
 To clone the repository, type the following command in the terminal prompt: 
 ```bash
@@ -114,7 +120,13 @@ git clone https://github.com/leriomaggio/python-data-science.git
 
 Once completed, this will create a new folder named `python-data-science` (_presumably in your Home folder_).
 
-Well done! Now you should bear with me another few minutes, following instructions reported below 🙏 (please see **2. Setting up your Environment**)
+Well done! Now you should bear with me another few minutes, following instructions reported below 🙏
+
+ Please now proceed to **2. Setting up your Environment**
+
+
+
+
 
 
 **Option B**: Downloading the material in a ZIP archive from GitHub (**Not Recommended**)

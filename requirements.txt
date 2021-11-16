@@ -3,6 +3,7 @@ jupyterlab
 ipython
 matplotlib
 numpy
+openpyxl
 pandas
 pip
 setuptools

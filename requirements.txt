@@ -6,4 +6,5 @@ numpy
 openpyxl
 pandas
 pip
+scikit-learn
 setuptools
